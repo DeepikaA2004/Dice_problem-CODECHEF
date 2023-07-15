@@ -24,34 +24,20 @@ For each test case, output on a new line, YES, if the turn was good, and NO othe
 
 Each character of the output may be printed in either uppercase or lowercase. That is, the strings NO, no, nO, and No will be treated as equivalent.
 
-## Constraints
-1
-≤
-T
-≤
-100
-1≤T≤100
-1
-≤
+## CONSTRAINTS
+ 1<=T<=100
+ 1<=X , Y<=6
 
-,
-
-≤
-6
-1≤X,Y≤6
 Sample 1:
 Input
 Output
 4
-1 4
-3 4
-4 2
-2 6
-NO
-YES
-NO
-YES
-Explanation:
+1 4      -NO
+3 4      -YES
+4 2      -NO
+2 6      -YES
+
+## Explanation:
 Test case 
 1
 1: The sum of numbers on the dice is 
