@@ -1,0 +1,2 @@
+# Dice_problem-CODECHEF
+PROBLEM STATEMENT
